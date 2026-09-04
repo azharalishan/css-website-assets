@@ -1,0 +1,48 @@
+<svg version="1.1" id="Layer_1" xmlns:x="ns_extend;" xmlns:i="ns_ai;" xmlns:graph="ns_graphs;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 202.2 49" style="enable-background:new 0 0 202.2 49;" xml:space="preserve">
+ <style type="text/css">
+  .st0{fill-rule:evenodd;clip-rule:evenodd;fill:#762B8A;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#3F454F;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#3F454F;}
+ </style>
+ <metadata>
+  <sfw xmlns="ns_sfw;">
+   <slices>
+   </slices>
+   <sliceSourceBounds bottomLeftOrigin="true" height="49" width="202.2" x="4.4" y="10.7">
+   </sliceSourceBounds>
+  </sfw>
+ </metadata>
+ <g>
+  <path class="st0" d="M0,36.7L21.2,49l21.2-12.2V12.3L21.2,0L0,12.3V36.7z M39,14.2v20.6L21.2,45.1L3.4,34.8V14.2L21.2,3.9L39,14.2z
+		">
+  </path>
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="21.2177" y1="43.6121" x2="21.2177" y2="10.3733" gradientTransform="matrix(1 0 0 -1 0 51.4927)">
+   <stop offset="0.2" style="stop-color:#C6168D">
+   </stop>
+   <stop offset="0.8" style="stop-color:#762B8A">
+   </stop>
+  </linearGradient>
+  <path class="st1" d="M24.6,35.8v-3.4l11-6.4v-3.4l-11,6.3v-3.4l11-6.3l0-3L21.2,7.9L6.8,16.2v16.6l14.4,8.3l14.4-8.3v-3.4
+		L24.6,35.8z">
+  </path>
+  <path class="st2" d="M68.1,32.5H51.5V17h16.1v3.4H55.2v2.3h8.6v3.4h-8.6v2.9h12.9V32.5z">
+  </path>
+  <path class="st2" d="M73.1,17v15.5h3.7V21l9.4,11.5H91V17h-3.7v11.5L77.9,17H73.1z">
+  </path>
+  <path class="st2" d="M95.4,17v3.4h7v12.1h3.7V20.4h7V17H95.4z">
+  </path>
+  <path class="st2" d="M184.5,17v3.4h7v12.1h3.7V20.4h7V17H184.5z">
+  </path>
+  <path class="st3" d="M133.8,18.3c-1-0.9-2.3-1.4-4-1.4v0h-12.3v15.5h3.7v-5.4h6.7l3.8,5.4h4.3l-4.1-5.7c2.3-0.7,3.4-2.3,3.4-4.7
+		C135.2,20.5,134.7,19.2,133.8,18.3z M121.2,23.7v-3.3v0h8.1c1.6,0,2.3,0.6,2.3,1.6c0,0.9-0.2,1.7-2.4,1.7H121.2z">
+  </path>
+  <path class="st2" d="M149.7,29.5c4.8,0,5.3-1.6,5.3-3.1V17h3.7v10.3c0,3.7-3.9,5.7-8.9,5.7h0c-5,0-8.9-2-8.9-5.7V17h3.7v9.5
+		C144.4,27.8,144.9,29.5,149.7,29.5L149.7,29.5z">
+  </path>
+  <path class="st2" d="M178.5,21.5l2.3-2.4c-3.1-2.5-7.1-2.4-8.2-2.5c-1.1-0.1-8.4-0.2-8.7,4.7c-0.2,3.4,3,4.5,8.2,4.6
+		c5.2,0.1,5.4,1,5.4,1.6c0,0.6-0.7,2-5.3,1.9c-3,0-5.6-1.1-7-2.3l-2.1,2.7c2.4,1.9,5.5,2.9,9.4,2.9c4.6,0,8.6-1.2,8.8-5
+		c0.2-4.4-4.3-4.9-8.4-5.3c-4-0.3-5.2-0.4-5.2-1.4c0-1.1,3-1.2,5.1-1.1C175.3,20.1,177.1,20.7,178.5,21.5z">
+  </path>
+ </g>
+</svg>
